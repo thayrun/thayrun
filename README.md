@@ -15,11 +15,11 @@
 
 <div>
   <ul>
-     <li>🚀 Desenvolvedor em eterno desenvolvimento</li>
-     <li>🎸 Guitar/Bass Player</li>
-     <li>🎨 Pixel Art Lover</li>
-     <li>🎮 Gamer</li>
-     <li>🎬 Newbie Video Editor</li>
+     <li>🚀 <strong>Desenvolvedor</strong> em eterno <strong>desenvolvimento.</strong></li>
+     <li>🎸 <strong>Guitar</strong> n' <strong>Bass</strong> Player.</li>
+     <li>🎨 <strong>Pixel Art</strong> Lover.</li>
+     <li>🎮 Hard <strong>Gamer</strong>.</li>
+     <li>🎬 Newbie <strong>Video Editor</strong>.</li>
   </ul>
   </div>
 
