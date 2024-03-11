@@ -1,7 +1,7 @@
 ### `<Hello World !/>` 👋
 
 <div align="center">
-  <img height="200" width="200" src="https://media.discordapp.net/attachments/1131949287996137674/1146480049114071161/mepixel2_sem_fundo.png?width=671&height=671" />
+  <img height="200" width="200" src="https://media.discordapp.net/attachments/1179509394535370863/1216537212053753988/T-removebg-preview.png?ex=6600bf91&is=65ee4a91&hm=32788f809e32be38c50ecde00ce78e3d05e88d7c4200b50d3c8253df9856e1ef&=&format=webp&quality=lossless" />
 </div>
 
 <div align="center"> 
@@ -55,5 +55,5 @@
       <a href="https://github.com/thayrun">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayrun&hide_progress=true&theme=highcontrast" />
       </a>
-    <img heigh="200" width="200" src="https://cdn.discordapp.com/attachments/1131949287996137674/1146487198846304316/poke_sem_fundo.png" />
+    <img heigh="200" width="200" src="https://media.discordapp.net/attachments/1179509394535370863/1216537234065326141/441844be-741f-4e9b-b850-de0d98de5bb9-removebg-preview.png?ex=6600bf96&is=65ee4a96&hm=463ee644b9f6ec593c523e4de915e3c0f273bdc50abbca54c834630049ccee7b&=&format=webp&quality=lossless" />
 </div>
