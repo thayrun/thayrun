@@ -1,8 +1,6 @@
 ### `<Hello World !/>` 👋
 
-<div align="center">
-  <img height="200" width="200" src="https://cdn.discordapp.com/attachments/1179509394535370863/1216537212053753988/T-removebg-preview.png?ex=664201d1&is=6640b051&hm=f49cfb6515ce5dc9efa3aa5c9af0b6f0a8c98802f7bae15d57354fdcfdc2bdc8&" />
-</div>
+
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/thayron-nogueira-954139280" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
